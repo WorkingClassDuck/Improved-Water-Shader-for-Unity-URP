@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water material
+  m_Shader: {fileID: -6465566751694194690, guid: ef7255e57c8d10049a637bae2e849f47,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3FDDA6E2:
+        m_Texture: {fileID: 2800000, guid: ee182b4c2a93c84449e6a77a02597d5b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D5AB31F2:
+        m_Texture: {fileID: 2800000, guid: 5a22947a753ca7b40b3e6dd4a757afcd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D5E70537:
+        m_Texture: {fileID: 2800000, guid: 18851deae23887544894824710a94f47, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_22EFD55D: 1.64
+    - Vector1_3B5AFC48: 0.25
+    - Vector1_400080A7: 0.1
+    - Vector1_42DAFC46: 0.13
+    - Vector1_4EB4D5D4: 0.04
+    - Vector1_5129F9C3: -0.02
+    - Vector1_518ED694: 4.21
+    - Vector1_554D60F8: 0.31
+    - Vector1_5C0D1DA2: -0.03
+    - Vector1_68D63946: -0.69
+    - Vector1_7410C5B5: 0.593
+    - Vector1_7BE28043: 1.07
+    - Vector1_A66E56C6: 0.79
+    - Vector1_A9BACFA2: 12.8
+    - Vector1_AC057748: 26.48
+    - Vector1_AF39B32E: 50
+    - Vector1_B4F7B50: 1.19
+    - Vector1_B9BD87B3: 0.74
+    - Vector1_C101AA48: 0.59
+    - Vector1_CCA4A29F: 0.023
+    - Vector1_D037284C: 1.48
+    - Vector1_D1434F97: 1.24
+    - Vector1_D5B0546C: 0.931
+    - Vector1_DF5AEC8B: 0.22
+    - Vector1_E3BF49F4: 0.26
+    - Vector1_FDD614D0: 0.83
+    - Vector1_FDFC19CE: 41.07
+    m_Colors:
+    - Color_369D058D: {r: 1, g: 1, b: 1, a: 0}
+    - Color_9E5A2A34: {r: 0.030215396, g: 0.9150943, b: 0.73134905, a: 0}
+    - Color_D3C88E07: {r: 0, g: 0.30548796, b: 0.5377358, a: 0}
