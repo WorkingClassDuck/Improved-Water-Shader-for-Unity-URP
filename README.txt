@@ -7,4 +7,4 @@ Also make sure that both opaque and depth texture are enabled, otherwise the sha
 It is reccomended considering this shader is uncomfortably bloated with options that you use the material already provided and edit it to your needs.
 Creating a new material may or may not drain your sanity to nothing.
 
-Thats all, and also please credit me if you use this, it is much appreciated :)
+Thats all, and also please credit me if you use this, it is much appreciated <3
